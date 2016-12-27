@@ -38,7 +38,7 @@
 * lib
   * jzTree
     * [jzAdditional.js](lib/jzTree/jzAdditional.js)
-    * [htm.js](test/jzTree/htm.js)
-    * [log.js](test/jzTree/log.js)
+    * [htm.js](lib/jzTree/htm.js)
+    * [log.js](lib/jzTree/log.js)
 * [README.md](README.md)
 
